@@ -1,4 +1,4 @@
-package pe.edu.upeu.proyeccionsocial.service.Impl;
+package pe.edu.upeu.proyeccionsocial.service.impl;
 
 import pe.edu.upeu.proyeccionsocial.entity.Role;
 import pe.edu.upeu.proyeccionsocial.repository.RoleRepository;
